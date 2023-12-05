@@ -1,4 +1,4 @@
-# Delinea-Secret-Server (DSS)# Delinea-Secret-Server
+# Delinea-Secret-Server (DSS)
 
 ## Overview
 PowerShell connector definition file was built with help of [PowerShell connector definition generating tool](https://connect.oneidentity.com/products/identity-manager/w/knowledge-base/738/powershell-connector-definition-generating-tool)
