@@ -40,3 +40,25 @@ Where:
 ## Operations
 ![Delinea Secret Server](https://github.com/oi-nam-presales/Delinea-Secret-Server/assets/107265259/11e3cdff-3f18-44a1-a2e0-8ca3f6b176c5)
 
+## Configuration Parameters
+|Parameter Full Path|Value|
+|--|--|
+|Custom\SecretServer\AdminGroupID|5|
+|Custom\SecretServer\AdminGroupName|AdminRole-IT-XXXX|
+|Custom\SecretServer\AzureUsersGroup|App-Thycotic-Users|
+|Custom\SecretServer\BaseURL|https://xxxxxxx/SecretServer|
+|Custom\SecretServer\DoDebug|true|
+|Custom\SecretServer\GrantType|password|
+|Custom\SecretServer\LogFolder|C:\Projects\Delinea\Logs|
+|Custom\SecretServer\Password|************|
+|Custom\SecretServer\PSModule|C:\Projects\Delinea\LatestWithFolders\OIMPSThycoticSecretServerConnectorModule.psm1|
+|Custom\SecretServer\PVAccontDefName|Active Directory PV Account|
+|Custom\SecretServer\RegularAccountDefinitionName|AAD Living Lab|
+|Custom\SecretServer\SecretTemplateFields|username,password|
+|Custom\SecretServer\SecretTemplateName|Azure AD Account|
+|Custom\SecretServer\SyncProjectID|<Key><T>DPRProjectionStartInfo</T><P>CCC-FBF36B799565E2488D8ED86D11A5E5DB</P></Key>|
+|Custom\SecretServer\TargetSystemName|DelineaSecretServer|
+|Custom\SecretServer\TopFolderID|3|
+|Custom\SecretServer\TopPersonalFolderId|4|
+|Custom\SecretServer\Username|d-admin|
+
